@@ -1,0 +1,3 @@
+# Reminder
+This is just a simple implementation of Android Alarm Manager, Service, Broadcast Receiver and FlaotingActionButton Menu....
+Acknowledgement to them: https://github.com/Clans/FloatingActionButton, I'm using and learning their ways :)
